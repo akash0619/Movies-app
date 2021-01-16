@@ -11,5 +11,4 @@ API used from - "https://www.themoviedb.org/"
 
 More changes will be added to the app soon
 
-
-                                            Made with <span style="color: #e25555;">&#9829;</span>
+Made with <span style="color: #e25555;">&#9829;</span>
