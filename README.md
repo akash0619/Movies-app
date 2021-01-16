@@ -1,3 +1,5 @@
+<h1> Movie Search App </h1>
+
 [App link](https://akashz19.github.io/Movies-app/)
 
 
