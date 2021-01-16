@@ -4,7 +4,7 @@
 
 This is a React Js application which shows the details the movies by mentioning its release dates, ratings and a short desciption about it.
 Tech Stack:
-1. REACT JS
+1. REACT JS  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 2. HTML,CSS
 
 API used from - "https://www.themoviedb.org/"
